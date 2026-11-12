@@ -225,7 +225,7 @@ figure {
   background: #fff; overflow: hidden;
 }
 figure .imgbox {
-  padding: 22px; background: var(--bg-soft);
+  padding: 22px; background: #fff;
   display: flex; justify-content: center; cursor: zoom-in;
 }
 figure img { max-width: 100%; height: auto; display: block; }
